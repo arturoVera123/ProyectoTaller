@@ -1,5 +1,8 @@
-language: java
-jdk:
-  - oraclejdk8
-
-script: ant build
+{
+  "language": "java",
+  "jdk": "oraclejdk8",
+  "script": "ant build",
+  "os": "linux",
+  "group": "stable",
+  "dist": "trusty"
+}
