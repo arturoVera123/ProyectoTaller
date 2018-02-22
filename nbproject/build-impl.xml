@@ -47,6 +47,10 @@
     <target depends="-pre-init,-init-private,-init-user" name="-init-project">
         <property file="nbproject/project.properties"/>
     </target>
+       <target name="-init-taskdefs">
+<property name="libs.CopyLibs.classpath" value="(path of netbeans 
+folder)/java/ant/extra/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+<fail unless="libs.CopyLibs.classpath">   
     <target depends="-pre-init,-init-private,-init-user,-init-project,-init-macrodef-property" if="dist.ear.dir" name="-do-ear-init"/>
     <target depends="-pre-init,-init-private,-init-user,-init-project,-init-macrodef-property" name="-do-init">
         <condition property="have.tests">
