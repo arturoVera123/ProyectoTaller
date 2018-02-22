@@ -4,3 +4,7 @@ jdk:
   - oraclejdk8
   - openjdk7
 
+ant test
+  
+before_install:
+  - cd java
