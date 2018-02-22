@@ -1,6 +1,4 @@
-{
-  "language": "java",
-  "os": "linux",
-  "group": "stable",
-  "dist": "trusty"
-}
+language :java 
+
+jdk:
+  -oraclejdk8
