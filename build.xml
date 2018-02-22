@@ -71,6 +71,6 @@ folder)/java/ant/extra/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
     compile target as regular run target does. Again, for list of available 
     properties which you can use check the target you are overriding in 
     nbproject/build-impl.xml file. 
-
+</fail>
     -->
 </project>
