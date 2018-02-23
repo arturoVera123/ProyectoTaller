@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-language: java
-script: ant main
-=======
+
 {
   "language": "java",
   "script": "ant main",
