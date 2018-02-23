@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 language: java
 script: ant main
+=======
+lenguage :java
+
+>>>>>>> origin/Develop
