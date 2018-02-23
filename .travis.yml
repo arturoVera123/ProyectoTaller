@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 language: java
 script: ant main
+=======
+{
+  "language": "java",
+  "script": "ant main",
+  "os": "linux",
+  "group": "stable",
+  "dist": "trusty"
+}
+>>>>>>> origin/Develop

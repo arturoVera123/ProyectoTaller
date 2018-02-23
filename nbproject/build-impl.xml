@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-        *** GENERATED FROM project.xml - DO NOT EDIT  ***
-        ***         EDIT ../build.xml INSTEAD         ***
 
+<<<<<<< HEAD
         For the purpose of easier reading the script
         is divided into following sections:
         - initialization
@@ -1442,3 +1439,5 @@ exists or setup the property manually. For example like this:
     <target depends="init,undeploy-clean,deps-clean,do-clean,check-clean,-post-clean" description="Clean build products." name="clean"/>
     <target depends="clean" description="Clean build products." name="clean-ear"/>
 </project>
+=======
+>>>>>>> origin/Develop
