@@ -5,16 +5,15 @@
         <group>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/src/java/Controlador/mysqlConexion.java</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/src/java/Controlador/Usuario.java</file>
-            <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/actualizar.jsp</file>
-            <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/consultaEliminar.jsp</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/index.jsp</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/agregarProductos.jsp</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/eliminarUsuario.jsp</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/src/java/Modelo/Consulta.java</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/modificarProducto.jsp</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/acceso.jsp</file>
+            <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/actualizar.jsp</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/consultaModificar.jsp</file>
-            <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/.travis.yml</file>
+            <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/consultaEliminar.jsp</file>
             <file>file:/C:/Users/67063/Documents/NetBeansProjects/fbcmd4j/Taller/web/consultaProductos.jsp</file>
         </group>
     </open-files>
