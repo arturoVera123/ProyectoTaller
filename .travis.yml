@@ -1,4 +1,7 @@
 
 language: java
-install: mvn install -Dmaven.compiler.target=1.6 -Dmaven.compiler.source=1.6 -DskipTests=true
-script: mvn test -Dmaven.compiler.target=1.6 -Dmaven.compiler.source=1.6
+script:
+  - jdk_switcher use oraclejdk8
+  - # do stuff with Java 8
+  - jdk_switcher use openjdk7
+  - # do stuff with Java 7
