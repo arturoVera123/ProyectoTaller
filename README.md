@@ -14,6 +14,3 @@ La arquictectura de solucion del poblema podra visualizarse en el siguiente link
 https://www.lucidchart.com/invitations/accept/b9757efe-ddc1-4c3d-bf04-02e5cfaae023
 
 
-Link de documentacion 
-
-https://1drv.ms/u/s!AmVYZUhl2kKAm1q7-RlTYil1aASI
